@@ -1,0 +1,21 @@
+{
+  "name": "connect-appcache",
+  "author": "Evan Hahn",
+  "version": "0.1.0",
+  "description": "Build manifests differently in dev and prod.",
+  "main": "connect-appcache.js",
+  "dependencies": {
+    "render-appcache-manifest": "0.0.x"
+  },
+  "devDependencies": {
+    "sugar": "*"
+  },
+  "keywords": [
+    "connect",
+    "middleware",
+    "appcache",
+    "manifest",
+    "offline"
+  ],
+  "license": "Unlicense"
+}
